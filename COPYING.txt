@@ -1,4 +1,4 @@
-Gephi main source code is distributed under the dual license CDDL 1.0 and GNU General Public License v3.
+Gephi  main source code is distributed under the dual license CDDL 1.0 and GNU General Public License v3.
 
 Copyright 2012 Gephi Consortium. All rights reserved.
 
