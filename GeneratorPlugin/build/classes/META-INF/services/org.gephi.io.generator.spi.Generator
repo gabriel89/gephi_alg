@@ -1,0 +1,15 @@
+org.gephi.io.generator.plugin.CellularGraph
+org.gephi.io.generator.plugin.DuplicationDivergenceGraph
+org.gephi.io.generator.plugin.DynamicGraph
+org.gephi.io.generator.plugin.FacebookGraph
+org.gephi.io.generator.plugin.RandomGraph
+org.gephi.io.generator.plugin.ScaleFreeGraph
+org.gephi.io.generator.plugin.SmallWorldGraph
+org.gephi.io.generator.plugin.SocialGeographicGraph
+org.gephi.io.generator.plugin.StaticGeographicGraph
+org.gephi.io.generator.plugin.SzendroiGraph
+org.gephi.io.generator.plugin.TunableGrowingGraph
+org.gephi.io.generator.plugin.WSDDGraph
+org.gephi.io.generator.plugin.genetic.ChromoGraph
+org.gephi.io.generator.plugin.genetic.GeneticGraph
+org.gephi.io.generator.plugin.genetic.GeneticGrowingGraph

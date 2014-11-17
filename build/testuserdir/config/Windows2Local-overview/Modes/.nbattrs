@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="contextmode">
+        <attr name="WinSys-TCRef-Order" stringvalue="ContextTopComponent"/>
+    </fileobject>
+    <fileobject name="editor">
+        <attr name="WinSys-TCRef-Order" stringvalue="GraphTopComponent"/>
+    </fileobject>
+    <fileobject name="explorer">
+        <attr name="WinSys-TCRef-Order" stringvalue="favorites"/>
+    </fileobject>
+    <fileobject name="filtersmode">
+        <attr name="WinSys-TCRef-Order" stringvalue="StatisticsTopComponent/FiltersTopComponent"/>
+    </fileobject>
+    <fileobject name="layoutmode">
+        <attr name="WinSys-TCRef-Order" stringvalue="LayoutTopComponent"/>
+    </fileobject>
+    <fileobject name="output">
+        <attr name="WinSys-TCRef-Order" stringvalue="output"/>
+    </fileobject>
+    <fileobject name="properties">
+        <attr name="WinSys-TCRef-Order" stringvalue="properties"/>
+    </fileobject>
+    <fileobject name="rankingmode">
+        <attr name="WinSys-TCRef-Order" stringvalue="PartitionTopComponent/RankingTopComponent/ClusteringTopComponent/EditToolTopComponent"/>
+    </fileobject>
+</attributes>

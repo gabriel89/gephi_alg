@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="org_gephi_desktop_partition">
+                <file name="Layout" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--org.gephi.desktop.partition.PartitionTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//org.gephi.desktop.partition//Layout//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="org">
+                <folder name="gephi">
+                    <folder name="desktop">
+                        <folder name="partition">
+                            <file name="PartitionTopComponent">
+                                <!--org.gephi.desktop.partition.PartitionTopComponent-->
+                                <attr name="settings.providerPath" stringvalue="xml/lookups//org_gephi_desktop_partition/Layout.instance"/>
+                            </file>
+                        </folder>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="org_gephi_desktop_partition">
+                <file name="Layout.instance">
+                    <!--org.gephi.desktop.partition.PartitionTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="org.gephi.desktop.partition.PartitionTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="org.gephi.desktop.partition.PartitionTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="org-gephi-desktop-partition-PartitionTopComponent.shadow">
+                <!--org.gephi.desktop.partition.PartitionTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/org-gephi-desktop-partition-PartitionTopComponent.instance"/>
+                <attr intvalue="800" name="position"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Roles">
+            <folder name="overview">
+                <folder name="Components">
+                    <file name="PartitionTopComponent.settings">
+                        <!--org.gephi.desktop.partition.PartitionTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="org.gephi.desktop.partition.PartitionTopComponent"/>
+</settings>
+]]></file>
+                </folder>
+                <folder name="Modes">
+                    <folder name="rankingmode">
+                        <file name="PartitionTopComponent.wstcref">
+                            <!--org.gephi.desktop.partition.PartitionTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="PartitionTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="org-gephi-desktop-partition-PartitionTopComponent.instance">
+                <!--org.gephi.desktop.partition.PartitionTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="org.gephi.desktop.partition.PartitionTopComponent"/>
+                <attr name="preferredID" stringvalue="PartitionTopComponent"/>
+                <attr
+                    bundlevalue="org.gephi.desktop.partition.Bundle#CTL_PartitionTopComponent" name="displayName"/>
+                <attr name="iconBase" stringvalue="org/gephi/desktop/partition/resources/small.png"/>
+            </file>
+        </folder>
+    </folder>
+</filesystem>

@@ -1,0 +1,8 @@
+org.gephi.datalab.plugin.manipulators.columns.ClearColumnData
+org.gephi.datalab.plugin.manipulators.columns.CopyDataToOtherColumn
+org.gephi.datalab.plugin.manipulators.columns.CreateBooleanMatchesColumn
+org.gephi.datalab.plugin.manipulators.columns.CreateFoundGroupsListColumn
+org.gephi.datalab.plugin.manipulators.columns.DeleteColumn
+org.gephi.datalab.plugin.manipulators.columns.DuplicateColumn
+org.gephi.datalab.plugin.manipulators.columns.FillColumnWithValue
+org.gephi.datalab.plugin.manipulators.columns.NegateBooleanColumn

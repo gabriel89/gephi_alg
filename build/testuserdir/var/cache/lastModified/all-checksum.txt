@@ -1,0 +1,8 @@
+D:\repository\deltaalex-gephi\platform\platform=1358183317779
+D:\repository\deltaalex-gephi\build\cluster=1415811716432
+D:\repository\deltaalex-gephi\platform\gephi=1358183347933
+D:\repository\deltaalex-gephi\platform\platform=1358183317779
+D:\repository\deltaalex-gephi\build\testuserdir=1415811716432
+crc=7
+locale=en_US
+branding=gephi

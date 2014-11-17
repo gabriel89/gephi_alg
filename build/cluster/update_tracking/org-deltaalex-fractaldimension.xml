@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.deltaalex.fractaldimension">
+    <module_version install_time="1415811556555" last="true" origin="installer" specification_version="1.0">
+        <file crc="1285596856" name="config/Modules/org-deltaalex-fractaldimension.xml"/>
+        <file crc="576088050" name="modules/org-deltaalex-fractaldimension.jar"/>
+    </module_version>
+</module>

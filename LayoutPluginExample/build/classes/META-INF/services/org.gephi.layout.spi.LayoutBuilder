@@ -1,0 +1,3 @@
+org.gephi.plugins.example.layout.FixedGridLayoutBuilder
+org.gephi.plugins.example.layout.GridLayoutBuilder
+org.gephi.plugins.example.layout.SortedGridLayoutBuilder

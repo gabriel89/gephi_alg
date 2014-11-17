@@ -1,0 +1,6 @@
+org.gephi.desktop.perspective.plugin.OverviewPerspective
+#position=100
+org.gephi.desktop.perspective.plugin.LaboratoryPerspective
+#position=200
+org.gephi.desktop.perspective.plugin.PreviewPerspective
+#position=300

@@ -1,0 +1,12 @@
+org.gephi.datalab.plugin.manipulators.columns.merge.AverageNumberBuilder
+org.gephi.datalab.plugin.manipulators.columns.merge.BooleanLogicOperationsBuilder
+org.gephi.datalab.plugin.manipulators.columns.merge.CreateTimeIntervalBuilder
+org.gephi.datalab.plugin.manipulators.columns.merge.FirstQuartileNumberBuilder
+org.gephi.datalab.plugin.manipulators.columns.merge.InterQuartileRangeNumberBuilder
+org.gephi.datalab.plugin.manipulators.columns.merge.JoinNumberColumnsBuilder
+org.gephi.datalab.plugin.manipulators.columns.merge.JoinWithSeparatorBuilder
+org.gephi.datalab.plugin.manipulators.columns.merge.MaximumNumberBuilder
+org.gephi.datalab.plugin.manipulators.columns.merge.MedianNumberBuilder
+org.gephi.datalab.plugin.manipulators.columns.merge.MinimumNumberBuilder
+org.gephi.datalab.plugin.manipulators.columns.merge.SumNumbersBuilder
+org.gephi.datalab.plugin.manipulators.columns.merge.ThirdQuartileNumberBuilder

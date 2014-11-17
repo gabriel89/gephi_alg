@@ -1,0 +1,8 @@
+org.gephi.datalab.plugin.manipulators.edges.ClearEdgesDataBuilder
+org.gephi.datalab.plugin.manipulators.edges.CopyEdgeDataToOtherEdgesBuilder
+org.gephi.datalab.plugin.manipulators.edges.DeleteEdgesBuilder
+org.gephi.datalab.plugin.manipulators.edges.DeleteEdgesWithNodesBuilder
+org.gephi.datalab.plugin.manipulators.edges.OpenInEditEdgeWindowBuilder
+org.gephi.datalab.plugin.manipulators.edges.SelectNodesOnTableBuilder
+org.gephi.datalab.plugin.manipulators.edges.SelectSourceOnGraphBuilder
+org.gephi.datalab.plugin.manipulators.edges.SelectTargetOnGraphBuilder

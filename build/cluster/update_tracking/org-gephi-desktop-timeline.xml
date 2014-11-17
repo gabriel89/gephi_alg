@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.gephi.desktop.timeline">
+    <module_version install_time="1415811707153" last="true" origin="installer" specification_version="0.8.1.4">
+        <file crc="3581235922" name="config/Modules/org-gephi-desktop-timeline.xml"/>
+        <file crc="2765369185" name="modules/org-gephi-desktop-timeline.jar"/>
+    </module_version>
+</module>

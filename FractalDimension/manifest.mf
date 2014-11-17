@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+OpenIDE-Module: org.deltaalex.fractaldimension
+OpenIDE-Module-Localizing-Bundle: org/deltaalex/fractaldimension/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+

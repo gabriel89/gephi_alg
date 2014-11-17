@@ -1,0 +1,11 @@
+org.gephi.io.spigot.plugin.email.EmailFilterAddressBcc
+org.gephi.io.spigot.plugin.email.EmailFilterAddressCc
+org.gephi.io.spigot.plugin.email.EmailFilterAddressFrom
+org.gephi.io.spigot.plugin.email.EmailFilterAddressTo
+org.gephi.io.spigot.plugin.email.EmailFilterDateAfter
+org.gephi.io.spigot.plugin.email.EmailFilterDateBefore
+org.gephi.io.spigot.plugin.email.EmailFilterHasAttachment
+org.gephi.io.spigot.plugin.email.EmailFilterHasBcc
+org.gephi.io.spigot.plugin.email.EmailFilterHasCc
+org.gephi.io.spigot.plugin.email.EmailFilterMessageInclude
+org.gephi.io.spigot.plugin.email.EmailFilterSubjectInclude

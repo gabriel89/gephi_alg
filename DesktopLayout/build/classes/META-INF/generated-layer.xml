@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="org-gephi-desktop-layout-LayoutTopComponent.shadow">
+                <!--org.gephi.desktop.layout.LayoutTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/org-gephi-desktop-layout-LayoutTopComponent.instance"/>
+                <attr intvalue="700" name="position"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Roles">
+            <folder name="overview">
+                <folder name="Components">
+                    <file name="LayoutTopComponent.settings">
+                        <!--org.gephi.desktop.layout.LayoutTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="org.gephi.desktop.layout.LayoutTopComponent"/>
+</settings>
+]]></file>
+                </folder>
+                <folder name="Modes">
+                    <folder name="layoutmode">
+                        <file name="LayoutTopComponent.wstcref">
+                            <!--org.gephi.desktop.layout.LayoutTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="LayoutTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="org-gephi-desktop-layout-LayoutTopComponent.instance">
+                <!--org.gephi.desktop.layout.LayoutTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="org.gephi.desktop.layout.LayoutTopComponent"/>
+                <attr name="preferredID" stringvalue="LayoutTopComponent"/>
+                <attr
+                    bundlevalue="org.gephi.desktop.layout.Bundle#CTL_LayoutTopComponent" name="displayName"/>
+                <attr name="iconBase" stringvalue="org/gephi/desktop/layout/resources/small.png"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="org_gephi_desktop_layout">
+                <file name="Layout" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--org.gephi.desktop.layout.LayoutTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//org.gephi.desktop.layout//Layout//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="org">
+                <folder name="gephi">
+                    <folder name="desktop">
+                        <folder name="layout">
+                            <file name="LayoutTopComponent">
+                                <!--org.gephi.desktop.layout.LayoutTopComponent-->
+                                <attr name="settings.providerPath" stringvalue="xml/lookups//org_gephi_desktop_layout/Layout.instance"/>
+                            </file>
+                        </folder>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="org_gephi_desktop_layout">
+                <file name="Layout.instance">
+                    <!--org.gephi.desktop.layout.LayoutTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="org.gephi.desktop.layout.LayoutTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="org.gephi.desktop.layout.LayoutTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

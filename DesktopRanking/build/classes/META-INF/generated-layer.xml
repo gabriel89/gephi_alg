@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="org-gephi-desktop-ranking-RankingTopComponent.shadow">
+                <!--org.gephi.desktop.ranking.RankingTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/org-gephi-desktop-ranking-RankingTopComponent.instance"/>
+                <attr intvalue="1100" name="position"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Roles">
+            <folder name="overview">
+                <folder name="Components">
+                    <file name="RankingTopComponent.settings">
+                        <!--org.gephi.desktop.ranking.RankingTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="org.gephi.desktop.ranking.RankingTopComponent"/>
+</settings>
+]]></file>
+                </folder>
+                <folder name="Modes">
+                    <folder name="rankingmode">
+                        <file name="RankingTopComponent.wstcref">
+                            <!--org.gephi.desktop.ranking.RankingTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="RankingTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="org-gephi-desktop-ranking-RankingTopComponent.instance">
+                <!--org.gephi.desktop.ranking.RankingTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="org.gephi.desktop.ranking.RankingTopComponent"/>
+                <attr name="preferredID" stringvalue="RankingTopComponent"/>
+                <attr
+                    bundlevalue="org.gephi.desktop.ranking.Bundle#CTL_RankingAction" name="displayName"/>
+                <attr name="iconBase" stringvalue="org/gephi/desktop/ranking/resources/small.png"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="org_gephi_desktop_ranking">
+                <file name="Ranking" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--org.gephi.desktop.ranking.RankingTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//org.gephi.desktop.ranking//Ranking//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="org">
+                <folder name="gephi">
+                    <folder name="desktop">
+                        <folder name="ranking">
+                            <file name="RankingTopComponent">
+                                <!--org.gephi.desktop.ranking.RankingTopComponent-->
+                                <attr name="settings.providerPath" stringvalue="xml/lookups//org_gephi_desktop_ranking/Ranking.instance"/>
+                            </file>
+                        </folder>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="org_gephi_desktop_ranking">
+                <file name="Ranking.instance">
+                    <!--org.gephi.desktop.ranking.RankingTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="org.gephi.desktop.ranking.RankingTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="org.gephi.desktop.ranking.RankingTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

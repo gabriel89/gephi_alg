@@ -1,0 +1,5 @@
+org.gephi.datalab.plugin.manipulators.general.AddEdgeToGraph
+org.gephi.datalab.plugin.manipulators.general.AddNodeToGraph
+org.gephi.datalab.plugin.manipulators.general.ExportTable
+org.gephi.datalab.plugin.manipulators.general.ImportCSV
+org.gephi.datalab.plugin.manipulators.general.SearchReplace

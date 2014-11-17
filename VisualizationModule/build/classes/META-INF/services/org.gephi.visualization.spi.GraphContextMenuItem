@@ -1,0 +1,10 @@
+org.gephi.visualization.apiimpl.contextmenuitems.Contract
+org.gephi.visualization.apiimpl.contextmenuitems.CopyToWorkspace
+org.gephi.visualization.apiimpl.contextmenuitems.Delete
+org.gephi.visualization.apiimpl.contextmenuitems.Expand
+org.gephi.visualization.apiimpl.contextmenuitems.Free
+org.gephi.visualization.apiimpl.contextmenuitems.Group
+org.gephi.visualization.apiimpl.contextmenuitems.MoveToWorkspace
+org.gephi.visualization.apiimpl.contextmenuitems.SelectInDataLaboratory
+org.gephi.visualization.apiimpl.contextmenuitems.Settle
+org.gephi.visualization.apiimpl.contextmenuitems.Ungroup

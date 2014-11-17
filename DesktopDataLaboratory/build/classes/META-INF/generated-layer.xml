@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE filesystem PUBLIC "-//NetBeans//DTD Filesystem 1.2//EN"
+                            "http://www.netbeans.org/dtds/filesystem-1_2.dtd">
+<filesystem>
+    <folder name="Menu">
+        <folder name="Window">
+            <file name="org-gephi-desktop-datalab-DataTableTopComponent.shadow">
+                <!--org.gephi.desktop.datalab.DataTableTopComponent-->
+                <attr name="originalFile" stringvalue="Actions/Window/org-gephi-desktop-datalab-DataTableTopComponent.instance"/>
+                <attr intvalue="300" name="position"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="Windows2">
+        <folder name="Roles">
+            <folder name="datalab">
+                <folder name="Components">
+                    <file name="DataTableTopComponent.settings">
+                        <!--org.gephi.desktop.datalab.DataTableTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE settings PUBLIC "-//NetBeans//DTD Session settings 1.0//EN" "http://www.netbeans.org/dtds/sessionsettings-1_0.dtd">
+<settings version="1.0">
+  <instance class="org.gephi.desktop.datalab.DataTableTopComponent"/>
+</settings>
+]]></file>
+                </folder>
+                <folder name="Modes">
+                    <folder name="editor">
+                        <file name="DataTableTopComponent.wstcref">
+                            <!--org.gephi.desktop.datalab.DataTableTopComponent--><![CDATA[<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tc-ref PUBLIC "-//NetBeans//DTD Top Component in Mode Properties 2.0//EN" "http://www.netbeans.org/dtds/tc-ref2_0.dtd">
+<tc-ref version="2.0">
+  <tc-id id="DataTableTopComponent"/>
+  <state opened="true"/>
+</tc-ref>
+]]></file>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+    </folder>
+    <folder name="Actions">
+        <folder name="Window">
+            <file name="org-gephi-desktop-datalab-DataTableTopComponent.instance">
+                <!--org.gephi.desktop.datalab.DataTableTopComponent-->
+                <attr
+                    methodvalue="org.openide.windows.TopComponent.openAction" name="instanceCreate"/>
+                <attr name="component" newvalue="org.gephi.desktop.datalab.DataTableTopComponent"/>
+                <attr name="preferredID" stringvalue="DataTableTopComponent"/>
+                <attr
+                    bundlevalue="org.gephi.desktop.datalab.Bundle#CTL_DataTableTopComponent" name="displayName"/>
+                <attr name="iconBase" stringvalue="org/gephi/desktop/datalab/resources/small.png"/>
+            </file>
+        </folder>
+    </folder>
+    <folder name="xml">
+        <folder name="entities">
+            <folder name="org_gephi_desktop_datalab">
+                <file name="DataTable" url="nbres:/org/netbeans/modules/settings/resources/properties-1_0.dtd">
+                    <!--org.gephi.desktop.datalab.DataTableTopComponent-->
+                    <attr name="hint.originalPublicID" stringvalue="-//org.gephi.desktop.datalab//DataTable//EN"/>
+                </file>
+            </folder>
+        </folder>
+        <folder name="memory">
+            <folder name="org">
+                <folder name="gephi">
+                    <folder name="desktop">
+                        <folder name="datalab">
+                            <file name="DataTableTopComponent">
+                                <!--org.gephi.desktop.datalab.DataTableTopComponent-->
+                                <attr name="settings.providerPath" stringvalue="xml/lookups//org_gephi_desktop_datalab/DataTable.instance"/>
+                            </file>
+                        </folder>
+                    </folder>
+                </folder>
+            </folder>
+        </folder>
+        <folder name="lookups">
+            <folder name="org_gephi_desktop_datalab">
+                <file name="DataTable.instance">
+                    <!--org.gephi.desktop.datalab.DataTableTopComponent-->
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.create" name="instanceCreate"/>
+                    <attr
+                        methodvalue="org.netbeans.api.settings.Factory.properties" name="settings.convertor"/>
+                    <attr name="settings.instanceClass" stringvalue="org.gephi.desktop.datalab.DataTableTopComponent"/>
+                    <attr name="settings.instanceOf" stringvalue="org.gephi.desktop.datalab.DataTableTopComponent"/>
+                    <attr boolvalue="true" name="xmlproperties.preventStoring"/>
+                </file>
+            </folder>
+        </folder>
+    </folder>
+</filesystem>

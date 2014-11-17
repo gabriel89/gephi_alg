@@ -1,0 +1,4 @@
+org.gephi.io.processor.plugin.DefaultProcessor
+#position=10
+org.gephi.io.processor.plugin.AppendProcessor
+org.gephi.io.processor.plugin.DynamicProcessor

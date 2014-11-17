@@ -1,0 +1,7 @@
+org.gephi.ranking.plugin.DegreeRankingBuilder
+#position=100
+org.gephi.ranking.plugin.InDegreeRankingBuilder
+#position=200
+org.gephi.ranking.plugin.OutDegreeRankingBuilder
+#position=300
+org.gephi.ranking.plugin.AttributeRankingBuilder

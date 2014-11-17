@@ -1,0 +1,10 @@
+||:org.gephi.io.generator.api.GeneratorController
+java.lang.Object
+org.gephi.io.generator.api.GeneratorController
+||:org.gephi.io.generator.spi.Generator
+java.lang.Object
+org.gephi.io.generator.spi.Generator
+org.gephi.utils.longtask.spi.LongTask
+||:org.gephi.io.generator.spi.GeneratorUI
+java.lang.Object
+org.gephi.io.generator.spi.GeneratorUI

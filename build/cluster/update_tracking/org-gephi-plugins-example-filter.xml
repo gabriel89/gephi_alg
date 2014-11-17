@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.gephi.plugins.example.filter">
+    <module_version install_time="1415811434303" last="true" origin="installer" specification_version="1.0">
+        <file crc="448682948" name="config/Modules/org-gephi-plugins-example-filter.xml"/>
+        <file crc="2752532192" name="modules/org-gephi-plugins-example-filter.jar"/>
+    </module_version>
+</module>

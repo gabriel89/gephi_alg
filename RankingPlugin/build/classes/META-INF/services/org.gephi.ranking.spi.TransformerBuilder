@@ -1,0 +1,8 @@
+org.gephi.ranking.plugin.transformer.RenderableColorTransformerBuilder
+#position=100
+org.gephi.ranking.plugin.transformer.RenderableSizeTransformerBuilder
+#position=200
+org.gephi.ranking.plugin.transformer.LabelColorTransformerBuilder
+#position=300
+org.gephi.ranking.plugin.transformer.LabelSizeTransformerBuilder
+#position=400

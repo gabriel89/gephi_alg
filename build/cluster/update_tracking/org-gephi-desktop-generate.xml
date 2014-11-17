@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.gephi.desktop.generate">
+    <module_version install_time="1415811484735" last="true" origin="installer" specification_version="0.8">
+        <file crc="3070562525" name="config/Modules/org-gephi-desktop-generate.xml"/>
+        <file crc="1966298868" name="modules/org-gephi-desktop-generate.jar"/>
+    </module_version>
+</module>
